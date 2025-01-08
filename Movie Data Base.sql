@@ -1,3 +1,4 @@
+#Exploratory Data using My SQL 
 CREATE DATABASE MOVIE_DB;
 USE MOVIE_DB;
 #i. Write a SQL query to find when the movie 'American Beauty' released. Return movie release year.
