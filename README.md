@@ -1,11 +1,3 @@
 # SQL_Projects
 Overview
-This SQL file contains a structured database schema and queries related to a Movie Database. It includes tables for storing information about movies, actors, directors, genres, ratings, and user reviews. The database is designed to efficiently manage and analyze movie-related data.
-
-Key Features
-Tables & Relationships: Stores movie details, cast, crew, genres, and ratings.
-SQL Queries: Includes scripts for data insertion, retrieval, and performance optimization.
-Normalization & Indexing: Ensures efficient data storage and quick retrieval.
-Usage
-Can be used for movie recommendation systems, data analysis, and business insights.
-Supports complex queries to fetch top-rated movies, actor collaborations, and genre trends.
+This project builds a machine learning model to predict insurance charges based on factors like age, BMI, smoking status, and region. Using Linear Regression, Decision Tree, and Random Forest, the model evaluates how these features impact medical costs. Random Forest Regression performed best with the highest accuracy. Future enhancements include integrating real-time insurance data and deploying the model as a web application for practical use.
